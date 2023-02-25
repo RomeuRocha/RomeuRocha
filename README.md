@@ -3,7 +3,7 @@
 
 ## Bem vindo ao meu perfil GitHub 👋
 
-Dedico meu tempo a estudar linguagens de programação e desenvolvimento de software, sendo as preferidas:
+Dedico meu tempo a estudar linguagens de programação e frameworks, sendo as preferidas:
 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"  width="120px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"  width="120px"/>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="120px"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="120px"/>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="120px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="120px"/>
           
