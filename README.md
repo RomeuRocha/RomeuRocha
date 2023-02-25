@@ -7,7 +7,7 @@ Dedico meu tempo a estudar linguagens de programação e desenvolvimento de soft
 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"  width="120px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"  width="120px"/>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="120px"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="120px"/>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="120px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="120px"/>
           
-## Principais Projetos
+## Projetos Favoritos
 
 ### Nservice
 <img src="https://user-images.githubusercontent.com/62400878/221379825-eb14e159-0c01-4aed-a1a8-0cb45a969d7f.png" width="500px"/>
